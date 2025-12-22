@@ -1,0 +1,3 @@
+> **“Stories may well be lies, but they are good lies that say true things...”**
+>
+> — Neil Gaiman
