@@ -1,5 +1,5 @@
 # Obsidian Quotes
-Store quotes in a Markdown files for Obsidian.
+Store quotes in Markdown files for Obsidian.
 
 Automating daily quotes pulled from MD files in this repository to randomly display on Obsidian app. 
 
@@ -9,6 +9,11 @@ This is a personal project. Quotes are sourced from books I have personally read
 >
 > — On Earth We're Briefly Gorgeous, Ocean Vuong
 
+Quotes MD File
+  - Source of truth for quotes
 
-# Set-up Walkthrough
+Quotes Folder
+  - Not used in practice, but neat way to organize all quotes by book/movie/source
+
+### Set-up Walkthrough
 WIP
