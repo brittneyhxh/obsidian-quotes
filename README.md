@@ -9,11 +9,11 @@ This is a personal project. Quotes are sourced from books I have personally read
 >
 > — On Earth We're Briefly Gorgeous, Ocean Vuong
 
-Quotes MD File
+### Quotes MD File
   - Source of truth for quotes
 
-Quotes Folder
+### Quotes Folder
   - Not used in practice, but neat way to organize all quotes by book/movie/source
 
-### Set-up Walkthrough
+## Set-up Walkthrough
 WIP
