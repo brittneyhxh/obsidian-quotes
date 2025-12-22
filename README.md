@@ -1,10 +1,14 @@
 # Obsidian Quotes
-Quotes in Markdown files for Obsidian.
+Store quotes in a Markdown files for Obsidian.
 
 Automating daily quotes pulled from MD files in this repository to randomly display on Obsidian app. 
 
-This is a personal project. Quotes are sourced from books I have personally read or have come across.
+This is a personal project. Quotes are sourced from books I have personally read or have come across - will try to update every year.
 
 > **"A page, turning, is a wing lifted with no twin, and therefore no flight. And yet we are moved."**
 >
 > — On Earth We're Briefly Gorgeous, Ocean Vuong
+
+
+# Set-up Walkthrough
+WIP
